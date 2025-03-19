@@ -1,6 +1,5 @@
-create database employee_details;
-
-use employee_details;
+CREATE DATABASE employee_details;
+USE employee_details;
 
 CREATE TABLE dept (
     deptno INT PRIMARY KEY,
